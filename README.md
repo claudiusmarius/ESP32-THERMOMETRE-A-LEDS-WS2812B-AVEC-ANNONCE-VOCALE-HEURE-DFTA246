@@ -13,9 +13,9 @@ affiche alternativement l’heure et la température sur un écran OLED,
 
 annonce vocalement l’heure à chaque heure pleine,
 
-utilise une interface simple à 3 boutons pour la configuration WiFi,
+elle utilise une interface simple à 3 boutons pour la configuration WiFi,
 
-fonctionne de manière autonome après configuration.
+elle fonctionne de manière autonome après configuration.
 
 Ce projet ne cherche pas à être spectaculaire, mais robuste, compréhensible et reproductible.
 
