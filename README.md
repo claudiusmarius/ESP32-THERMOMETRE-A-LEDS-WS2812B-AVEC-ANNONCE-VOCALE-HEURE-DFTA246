@@ -26,7 +26,7 @@ Elle est née d’une promesse faite à mon père, et d’une volonté de créer
 
 C’est aussi pour cette raison que le code est volontairement :
 
-structuré,
+trés structuré,
 
 commenté,
 
