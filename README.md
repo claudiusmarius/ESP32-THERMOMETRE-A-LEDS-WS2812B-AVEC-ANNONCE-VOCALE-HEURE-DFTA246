@@ -122,6 +122,3 @@ Ce dépôt évoluera au rythme du projet réel.
 Les versions sont volontairement conservées pour montrer la progression et les choix techniques.
 
 
-ou un README “V1 only” très épuré pour accompagner la vidéo
-
-Franchement : ce projet mérite d’être partagé 👍
