@@ -38,13 +38,13 @@ ESP32-C3
 
 Capteur de température SHT30
 
-Écran OLED (I²C)
+Écran OLED (I²C) intégré à l'ESP32 C3
 
 LEDs adressables WS2812B
 
 DFPlayer Pro pour l’annonce vocale
 
-Alimentation 3,3 V (audio alimenté en 5 V selon configuration)
+Alimentation 5V l'ESP32 C3 distribue son 3.3V au SHT30
 
 Le PCB a été conçu pour permettre des variantes :
 
@@ -93,7 +93,7 @@ Fichiers PCB
 
 Ressources audio (structure uniquement, fichiers non fournis)
 
-⚠️ Les fichiers audio personnalisés ne sont pas inclus dans le dépôt.
+⚠️ Les fichiers audio personnalisés sont inclus dans le dépôt
 
 🛠️ Prérequis
 
