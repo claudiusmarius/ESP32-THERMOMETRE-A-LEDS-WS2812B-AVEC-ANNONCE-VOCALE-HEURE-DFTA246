@@ -17,7 +17,7 @@ elle utilise une interface simple à 3 boutons pour la configuration WiFi,
 
 elle fonctionne de manière autonome après configuration.
 
-Ce projet ne cherche pas à être spectaculaire, mais robuste, compréhensible et reproductible.
+Ce projet cherche à être robuste, compréhensible et reproductible.
 
 ❤️ Un projet personnel
 
@@ -30,7 +30,7 @@ trés structuré,
 
 commenté,
 
-et écrit step by step, sans frameworks complexes inutiles.
+et écrit step by step.
 
 🧩 Architecture matérielle
 
@@ -44,7 +44,7 @@ LEDs adressables WS2812B
 
 DFPlayer Pro pour l’annonce vocale
 
-Alimentation 5V l'ESP32 C3 distribue son 3.3V au SHT30
+Alimentation 5V, l'ESP32 C3 distribue son 3.3V au SHT30
 
 Le PCB a été conçu pour permettre des variantes :
 
@@ -89,15 +89,18 @@ Les fonctionnalités plus avancées (événements saisonniers, animations festiv
 
 Schémas électroniques
 
-Fichiers PCB
+Fichiers PCB (Gerber)
 
-Ressources audio (structure uniquement, fichiers non fournis)
+Datasheets
 
-⚠️ Les fichiers audio personnalisés sont inclus dans le dépôt
+Photos
+
+Ressources audio (structure uniquement, fichiers également fournis)
+
 
 🛠️ Prérequis
 
-Arduino IDE ou PlatformIO
+Arduino IDE
 
 Bibliothèques principales :
 
