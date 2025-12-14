@@ -7,7 +7,7 @@ Ce projet est une navette lumineuse et parlante basée sur ESP32, conçue pour �
 
 Dans sa version 1, la navette :
 
-réalise la mesure la température ambiante,
+effectue la mesure la température ambiante,
 
 affiche alternativement l’heure et la température sur un écran OLED,
 
