@@ -1,5 +1,9 @@
 # ESP32-THERMOMETRE-A-LEDS-WS2812B-AVEC-ANNONCE-VOCALE-HEURE-DFTA246
 
+Vidéo YouTube : https://youtu.be/PGV0VyRELZA
+<img width="323" height="21" alt="image" src="https://github.com/user-attachments/assets/7c4dea0e-b868-44f1-ab49-c66099c4c294" />
+
+
 🛰️ Navette lumineuse et parlante — ESP32
 📌 Présentation
 
